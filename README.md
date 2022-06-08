@@ -1,1 +1,1 @@
-This project will showcase what i have learned so far about constructing a website with HTML. This website will be showcasing different recipes, it will contain and index that will redirect the user to the recipe they want. 
+This project will showcase what i have learned so far about constructing a website with HTML. This website will contain an index with three different recipes. Each recipe page will contain an image, a description, an unordered list of the ingredients and an ordered list of the steps.
