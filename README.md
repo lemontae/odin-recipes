@@ -1,0 +1,1 @@
+This project will showcase what i have learned so far about constructing a website with HTML. This website will be showcasing different recipes, it will contain and index that will redirect the user to the recipe they want. 
