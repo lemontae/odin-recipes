@@ -7,3 +7,22 @@ body {
     height: 500px;
 }
 
+h1 {
+    text-align: center;
+    font-size: 45px;
+    color: rgb(142, 8, 8);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(91, 121, 14);
+    font-size: 30px;
+}
+
+p,
+li {
+    text-align: center;
+    font-size: 19px;
+    align-items: center;
+}
+
