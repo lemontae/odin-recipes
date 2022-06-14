@@ -2,9 +2,11 @@ body {
     background-color: rgb(233, 219, 179);
 }
 
-.image {
+.image,
+.lasagna,
+.pizza {
     width: auto;
-    height: 500px;
+    height: 700px;
 }
 
 h1 {
